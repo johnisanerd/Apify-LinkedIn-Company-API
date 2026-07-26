@@ -263,4 +263,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the LinkedIn Company API to power your sales intelligence, account enrichment, and CRM workflows with reliable, structured results.*
 
-Last Updated: 2026.07.10
+Last Updated: 2026.07.26
